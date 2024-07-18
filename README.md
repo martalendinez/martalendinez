@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Tailwing**
 
-- 📄 Know about my experiences [www.linkedin.com/in/marta-casandra-lendínez-ibáñez-959259200](www.linkedin.com/in/marta-casandra-lendínez-ibáñez-959259200)
+-📫 How to reach me: You can write me on linkedin(www.linkedin.com/in/marta-casandra-lendínez-ibáñez-959259200)
 
 - ⚡ Fun fact **I have studied in Spain, the Netherlands, Germany, and now in Sweden.**
 
