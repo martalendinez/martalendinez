@@ -15,11 +15,10 @@ I design and build interactive systems at the intersection of UX, AI, and creati
 - 🧠 Master’s Thesis: Building an **AI-powered plugin for designers using Electron**
 - 🎨 Human-centered AI & creative augmentation
 - ⚛️ Interactive applications with React & modern web technologies
-- 🏗 Designing scalable, developer-friendly UI systems
 
 ---
 
-## 🛠 Tech Stack (Most Relevant)
+## 🛠 Tech Stack 
 
 **Frontend & UX Engineering**  
 React · Vue · JavaScript · Tailwind · HTML · CSS  
