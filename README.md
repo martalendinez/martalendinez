@@ -12,7 +12,7 @@ I design and build interactive systems at the intersection of UX, AI, and creati
 
 ## 🚀 Current Focus
 
-- 🧠 Master’s Thesis: Building an **AI-powered plugin for designers using Electron**
+- 🧠 Master’s Thesis: Building an **AI-powered plugin for designers, built to support human thinking, not replace it.**
 - 🎨 Human-centered AI & creative augmentation
 - ⚛️ Interactive applications with React & modern web technologies
 
@@ -24,10 +24,10 @@ I design and build interactive systems at the intersection of UX, AI, and creati
 React · Vue · JavaScript · Tailwind · HTML · CSS  
 
 **AI & Backend**  
-Python · Flask · PostgreSQL  
+Node.js · Express · Groq API · Python · Flask · PostgreSQL  
 
 **Design & Creative Tools**  
-Figma · Unity  
+Figma · Framer · Unity  
 
 **Dev Tools**  
 Git · Docker  
